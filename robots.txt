@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deungchon-club-note.banpo-massage-review.xyz/sitemap.xml
